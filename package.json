@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "input": "^1.0.1",
+    "telegram": "^2.14.7"
+  }
+}
